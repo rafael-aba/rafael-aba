@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-rafael-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-antunes-batista-983707100/)](https://www.linkedin.com/in/rafael-antunes-batista-983707100/)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-antunes-batista-983707100/)](https://www.linkedin.com/in/rafael-antunes-batista-983707100/)
 
 
 <!--
