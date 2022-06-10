@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile.
 
-You can find more about me, my skills, and experiences here:
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-antunes-batista-983707100/)](https://www.linkedin.com/in/rafael-antunes-batista-983707100/)
 
 
